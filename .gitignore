@@ -1,0 +1,2 @@
+# anything inside of the "data" folder I don't want to sync
+data/*
